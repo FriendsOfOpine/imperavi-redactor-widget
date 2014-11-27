@@ -1,0 +1,35 @@
+{
+  "name": "imperavi-redactor-widget",
+  "version": "1.3.4",
+  "homepage": "https://github.com/FriendsOfOpine/imperavi-redactor-widget",
+  "description": "WYSIWYG",
+  "license": "MIT",
+  "private": true,
+  "main" : [
+    "assets/redactor.css",
+    "assets/redactor.js",
+    "assets/plugins/fontcolor/fontcolor.js",
+    "assets/plugins/fontfamily/fontfamily.js",
+    "assets/plugins/imagemanager/imagemanager.js",
+    "assets/plugins/table/table.js",
+    "assets/plugins/fullscreen/fullscreen.js",
+    "assets/plugins/textdirection/textdirection.js",
+    "assets/plugins/fontsize/fontsize.js",
+    "assets/plugins/clips/clips.css",
+    "assets/plugins/clips/clips.js",
+    "assets/plugins/video/video.js",
+    "assets/plugins/limiter/limiter.js",
+    "assets/plugins/filemanager/filemanager.js",
+    "assets/plugins/definedlinks/definedlinks.js",
+    "assets/plugins/textexpander/textexpander.js",
+    "assets/plugins/counter/counter.js",
+    "assets/redactor-font.eot"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
